@@ -1,4 +1,5 @@
-# 3D-Reconstruction
+# Simultaneous Form and Pose Reconstruction of Cars and Pedestrians for Cameras and LiDAR Point Clouds (Deep Learning - Python)
+
 About my Student Project: Simultane Form- und Posen-Rekonstruktion von Verkehrsteilnehmern für Überwachungskameras und LiDAR-Punktwolken.
 
 Using [GSNet](https://github.com/lkeab/gsnet.git) and [Alphapose](https://github.com/MVIG-SJTU/AlphaPose.git) to detect the shape and pose of cars and pedestrians. 
